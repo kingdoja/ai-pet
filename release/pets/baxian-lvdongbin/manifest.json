@@ -1,0 +1,21 @@
+{
+  "pet_id": "baxian-lvdongbin",
+  "display_name": "吕洞宾",
+  "sprite_version_number": 2,
+  "atlas": {
+    "file": "spritesheet-extended.webp",
+    "fallback_file": "spritesheet-extended.png",
+    "columns": 8,
+    "rows": 11,
+    "cell_width": 192,
+    "cell_height": 208,
+    "width": 1536,
+    "height": 2288,
+    "format": "RGBA"
+  },
+  "validation": {
+    "ok": true,
+    "file": "validation-extended-v11.json",
+    "transparent_rgb_residue_pixels": 0
+  }
+}
